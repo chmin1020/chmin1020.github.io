@@ -1,0 +1,9 @@
+.container{
+	background-color: #e8fffa;
+	position: relative;
+	width: 100%;
+	max-width: 800px;
+	margin: 0;
+	padding: 0 20px;
+	box-sizing: border-box;
+}
